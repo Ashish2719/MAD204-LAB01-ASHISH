@@ -31,7 +31,7 @@ import java.util.Scanner;
 
             int choice = getInt("Choose Option:");
 
-            switch (choice){
+            switch (choic){
 
                 case 1: addStudent();
                 break;
