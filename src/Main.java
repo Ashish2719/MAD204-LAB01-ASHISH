@@ -1,8 +1,8 @@
 
-/**import java.util.ArrayList;
+import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
+
  * Course: MAD204: Java Development
  * Lab 1
  * Student Name: Ashishkumar Prajapati
@@ -15,7 +15,7 @@ import java.util.Scanner;
  * and running utilities (operator demo, type casting, recursion).
  */
 
-/**public class Main {
+public class Main {
     private static ArrayList<Student> students=new ArrayList<>();
     private static Scanner sc = new Scanner(System.in);
 
@@ -31,7 +31,7 @@ import java.util.Scanner;
 
             int choice = getInt("Choose Option:");
 
-            switch (choic){
+            switch (choice){
 
                 case 1: addStudent();
                 break;
@@ -166,4 +166,4 @@ import java.util.Scanner;
             }
         }
     }
-}**/
+}
