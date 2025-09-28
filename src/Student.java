@@ -33,7 +33,7 @@ public double average(){
     for (double g : grades){
         sum += g;
     }
-    return sum/grades.length;
+    retur sum/grades.length;
 }
 
 public char letterGrade(){
