@@ -31,15 +31,19 @@ public class Main {
 
             int choice = getInt("Choose Option:");
 
-            switch (choice){
+            switch (choice) {
 
-                case 1: addStudent();
-                break;
-                case 2: enterGrade();
+                case 1:
+                    addStudent();
                     break;
-                case 3: showStudents();
+                case 2:
+                    enterGrade();
                     break;
-                case 4:  utilitiesMenu();
+                case 3:
+                    showStudents();
+                    break;
+                case 4:
+                    utilitiesMenu();
                     break;
                 case 5: {
                     System.out.println("Exiting... Goodbye!");
