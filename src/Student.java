@@ -11,7 +11,7 @@
 
 
 
-/**public class Student {
+public class Student {
     private String name;
     private int id;
     private double[] grades;
@@ -55,4 +55,4 @@ public String toString(){
 
 public String getName(){ return name;}
 public int getId(){ return id; }
-}**/
+}
