@@ -50,7 +50,7 @@ public class Main {
                     return;
                 }
                 default:
-                    System.out.println("Invalid choice, try again");
+                    System.out.println("Invalid choice, try agai");
             }
         }
     }
