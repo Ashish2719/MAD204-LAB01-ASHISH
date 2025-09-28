@@ -3,17 +3,17 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
- * Course: MAD204: Java Development
- * Lab 1
- * Student Name: Ashishkumar Prajapati
- * Student ID: A00194842
- * Date: September 21, 2025
- *
- * Description:
- * This is the main Gradebook & Utilities program.
- * It allows adding students, entering grades, displaying results,
- * and running utilities (operator demo, type casting, recursion).
- */
+// * Course: MAD204: Java Development
+// * Lab 1
+// * Student Name: Ashishkumar Prajapati
+// * Student ID: A00194842
+// * Date: September 21, 2025
+// *
+// * Description:
+// * This is the main Gradebook & Utilities program.
+// * It allows adding students, entering grades, displaying results,
+// * and running utilities (operator demo, type casting, recursion).
+// */
 
 public class Main {
     private static ArrayList<Student> students=new ArrayList<>();
